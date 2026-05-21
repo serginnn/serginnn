@@ -30,16 +30,6 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=serginnn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serginnn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=kacho_ga&hide_border=true" height="150" alt="languages graph" />
-</p>
-  
-</div>
 
 ###
 
